@@ -6,8 +6,8 @@ A mumble bot to roll dice.
 Edit bot.rb to direct this bot to the correct Mumble server.
 
 
-  bundle install
-  ruby bot.rb
+    bundle install
+    ruby bot.rb
   
   
   
